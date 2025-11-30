@@ -105,4 +105,3 @@ GitHub: [Duckfox/JustEnoughPixelmon](https://github.com/Duckfox/JustEnoughPixelm
 ---
 
 *Just Enough Pixelmon 是一个非官方的模组，与Minecraft、Mojang Studios和Pixelmon团队没有直接关联。*
->>>>>>> backup-main
